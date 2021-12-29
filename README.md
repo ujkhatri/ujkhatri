@@ -1,13 +1,13 @@
                                                    Hi, I am Ujjwal Khatri 👋
                                                    
 
-Senior Consultant with experience in research, analysis, design and development of software solutions based on IoT, Smart Appliance, microservices, cloud, mobile application technologies. 
+🔭 Senior Consultant with experience in research, analysis, design and development of software solutions based on IoT, Smart Appliance, microservices, cloud, mobile application technologies. 
 
-Helping people to learn software development. 
+🌱 Helping people to learn software development. 
 
-Feel free to connect. 
+💬 Please feel free to connect and ask me anything about software development. I will be happy to discuss. 
 
-<a> Visit my website -  </a>
+<a> 📫 Visit my website -  </a>
 <a href="https://www.ujjwalkhatri.com"> ujjwalkhatri.com </a>
                                                                
 
