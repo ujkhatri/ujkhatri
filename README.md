@@ -26,8 +26,6 @@
 <br>
 <br>
 
-<div> <a class="twitter-timeline" href="https://twitter.com/ujjwalkhatri?ref_src=twsrc%5Etfw">Tweets by ujjwalkhatri</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
-
 <!--
 **ujkhatri/ujkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
