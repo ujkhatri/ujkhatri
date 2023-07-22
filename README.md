@@ -9,8 +9,12 @@
 
 <a> 📫 Visit my website -  </a>
 <a href="https://www.ujjwalkhatri.com"> ujjwalkhatri.com </a>
+<br>
+<a href="https://www.bitstogigs.com"> BitsToGigs.com </a>
 
 ⚡ My Latest Articles: <br>
+<a href="https://bitstogigs.com/all-you-need-to-know-about-aws-solutions-architect-associate-certificate/">All you need to know about AWS Solutions Architect Associate Certificate</a>
+<br>
 <a href="https://www.ujjwalkhatri.com/tech/tasks-to-cover-while-learning-a-programming-language">Quick Start Guide - Tasks to cover while learning a programming language</a>
 <br>
 <a href="https://www.ujjwalkhatri.com/tech/aws-heroes">AWS Heroes - All you need to know</a>
