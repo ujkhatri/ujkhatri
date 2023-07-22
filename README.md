@@ -7,7 +7,8 @@
 
 💬 Please feel free to connect and ask me anything about software development. I will be happy to discuss. 
 
-<a> 📫 Visit my website -  </a>
+<a> 📫 Visit my websites -  </a> 
+<br>
 <a href="https://www.ujjwalkhatri.com"> ujjwalkhatri.com </a>
 <br>
 <a href="https://www.bitstogigs.com"> BitsToGigs.com </a>
