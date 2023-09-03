@@ -1,19 +1,15 @@
-                                                   Hi, I am Ujjwal Khatri 👋
-                                                   
+                                                  
+                                                  
+Software Professional with over 10 years of experience in research, analysis, design and development of software solutions based on IoT, Smart Appliance, microservices, cloud, mobile application technologies. 
 
-🔭 Software Professional with over 10 years of experience in research, analysis, design and development of software solutions based on IoT, Smart Appliance, microservices, cloud, mobile application technologies. 
 
-🌱 Helping people to learn software development. 
-
-💬 Please feel free to connect and ask me anything about software development. I will be happy to discuss. 
-
-<a> 📫 Visit my websites -  </a> 
+<a>websites</a> 
 <br>
 <a href="https://www.ujjwalkhatri.com"> ujjwalkhatri.com </a>
 <br>
 <a href="https://www.bitstogigs.com"> BitsToGigs.com </a>
 
-⚡ My Latest Articles: <br>
+⚡ Latest Articles: <br>
 <a href="https://bitstogigs.com/all-you-need-to-know-about-aws-solutions-architect-associate-certificate/">All you need to know about AWS Solutions Architect Associate Certificate</a>
 <br>
 <a href="https://www.ujjwalkhatri.com/tech/tasks-to-cover-while-learning-a-programming-language">Quick Start Guide - Tasks to cover while learning a programming language</a>
@@ -25,7 +21,7 @@
 
                                                                
 
-<h5> Connect with me on: </h5>
+<h5> Connect </h5>
 <a href="https://twitter.com/ujjwalkhatri"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ujjwal-khatri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
