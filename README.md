@@ -1,6 +1,6 @@
                                                   
                                                   
-Software Professional with over 10 years of experience in research, analysis, design and development of software solutions based on IoT, Smart Appliance, microservices, cloud, mobile application technologies. 
+Software Professional - Experience in research, analysis, design and development of software solutions based on IoT, Smart Appliance, microservices, cloud, mobile application technologies. 
 
 
 <a>websites</a> 
